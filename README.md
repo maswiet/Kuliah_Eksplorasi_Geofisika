@@ -66,7 +66,7 @@ T.B.A = to-be-anounced
 2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
 3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
 
-<img src="https://rukminim1.flixcart.com/image/832/832/jnqcpzk0/book/7/3/0/exploration-geophysics-of-the-shallow-subsurface-original-imafacsfnu2vhhhf.jpeg?q=70" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
+<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1329/9780132967730.jpg" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
 
 
  [1]: http://www.twitter.com/maswiet
