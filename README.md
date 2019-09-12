@@ -17,10 +17,10 @@ Semacam Kuliah Eksplorasi Geofisika for non Geophysicists
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
-# Kuliah Gelombang
-Kuliah Gelombang di Departemen Fisika UGM, 3 SKS
+# Kuliah Geofisika Terapan (TKGL176A03)
+Kuliah Geofisika di Departemen Teknik Geologi UGM, 3 SKS
 
-![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif)
+![Animasi_Gelombang](http://2.bp.blogspot.com/-GFupCgJBshM/VYBeq-_2ICI/AAAAAAAAArQ/2abanmogLU8/w1200-h630-p-k-no-nu/Marine%2BSeismic%2BCartoon.jpg)
 
 
 ## Prasyarat: MFF 1012 (Fisika Dasar 2).
