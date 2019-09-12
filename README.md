@@ -24,16 +24,12 @@ Kuliah Geofisika di Departemen Teknik Geologi UGM, 3 SKS
 
 
 ## Prasyarat: MFF 1012 (Fisika Dasar 2).
-**Silabus**: Osilasi; Gerak Gelombang; Gelombang Mekanis; Gelombang Bunyi dalam Padatan, Cairan dan Gas; Pantulan Gelombang dan Gelombang Berdiri; Gelombang Bola dan Silinder; Gelombang dalam Media takseragam dan Gelombang Multidimensi; Efek Doppler Gelombang Bunyi dan Gelombang Kejut; Gelombang Elektromagnetik; Radiasi Gelombang Elektromagnetik; Metode Fourier; Interferensi dan Difraksi.
+**Silabus**: Metode Seismik Refraksi, Metode Seismik Refleksi
 ## Kompetensi yang diberikan
 
-Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 25), kuliah gelombang ini diharapkan dapat menyumbang 6 Kompetensi lulusan, diantaranya:
-1. K1 mengetahui konsep yang mendasari fisika klasik
-2. K5 mengetahui berbagai cabang ilmu matematika termasuk penggunaan metode numerik dan pemrograman
-3. K7 trampil mengidentifikasi suatur masalah fisika melalui konsep-konsep fisika
-4. K10 trampil merumuskan aplikasi fisika untuk menyelesaikan masalah dalam kehidupan sehari-hari
-5. K13 trampil dalam menggunakan matematika dalam menjabarkan berbagai gejala fisika
-6. K14 trampil dalam penggunaan teknologi informasi dan komunikasi
+1. Mengetahui konsep yang mendasari perambatan gelombang seismik
+2. Mengetahui penggunaan metode numerik dan pemrograman di geofisika
+3. Mampu mengolah data seismik refraksi dan refleksi pada contoh kasus lapangan
 
 ## Pengampu
 - Ir. Djoko Wintolo 
@@ -43,11 +39,11 @@ Follow me on [![alt text][1.1]][1]
 
 ## Jadwal
 
-Jadwal kuliah dua kali dalam satu minggu, yaitu:
-- Senin, jam 12:30 s.d. 14:10 di S1.101
-- Kamis, jam 11:30 s.d. 12:20 di S1.101
+Jadwal kuliah 1 kali dalam satu minggu, yaitu:
 
-Kuliah fisika "jaman now", pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah Gelombang ini juga pendekatan secara komputasi akan saya lakukan (mendukung kompetensi K5, K14). Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Tentusaja saya tidak akan mengajarkan materi komputasi di dalam kuliah Gelombang ini, namun senyampang materi-materi kuliah disampaikan, selingan akan pemakaian komputer untuk memecahkan masalah gelombang akan terselip dalam materi kuliah. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Fisika dan Geofisika untuk menyenangi komputasi. Karena kalau aku senang, maka aku Bisa ! 
+- Kamis, jam 14:00 s.d. 15:40 di Ruang 3.3
+
+Kuliah geofisika "jaman now", pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah ini juga pendekatan secara komputasi akan saya lakukan. Hal ini memungkinkan, karena bermunculannya bahasa pemrograman baru yang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Tentusaja saya tidak akan mengajarkan materi komputasi di dalam kuliah ini, namun senyampang materi-materi kuliah disampaikan, selingan akan pemakaian komputer untuk memecahkan masalah metode seismik akan terselip dalam materi kuliah. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa untuk menyenangi komputasi. Karena kalau aku senang, maka aku Bisa ! 
 
 Berikut jadwal pertemuan setiap minggunya
 
@@ -70,7 +66,7 @@ T.B.A = to-be-anounced
 2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
 3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
 
-<img src="https://books.google.co.id/books/content?id=fEc1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72LpmpsgR5599Zt1OHcgkLGS_Gc9UP3Qq8Dw_wOYoM0kPPAczu0pFznJKDywZHx-OuE1XzYEAkEL9HF-FtZjNikqJ5ZT9NlV02R_fnOODRaHshzwpPv-as-pbnA2xCWjDt2vj-u" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
+<img src="https://rukminim1.flixcart.com/image/832/832/jnqcpzk0/book/7/3/0/exploration-geophysics-of-the-shallow-subsurface-original-imafacsfnu2vhhhf.jpeg?q=70" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
 
 
  [1]: http://www.twitter.com/maswiet
