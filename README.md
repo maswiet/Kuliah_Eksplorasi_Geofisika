@@ -62,11 +62,10 @@ T.B.A = to-be-anounced
 
 
 ## BukuAcuan:
-1. Hirose, A., dan K.E. Longren, 1985: Introduction to wave phenomena, John Wiley & Sons.
-2. Pain, H.J., 2005: The physics of vibrations and waves, J.Wiley& Sons.
-3. Zahara M., 1994: Gelombang dan optika, Proyek Pembinaan Tenaga Kependidikan PT, Ditjen DIKTI, Depdikbud.
+1. Burger, H.R. 1992: Exploration Geophysics, Prentice Hall. Inc.
+2. Lilie R.J., 1998: Whole Earth Geophysics, Pearson.
 
-<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1329/9780132967730.jpg" width=128px height=161px alt='Akira Hirose'> <img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4700/9780470012956.jpg" width=128px height=161px alt='HJ Pain'>
+<img src="https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1329/9780132967730.jpg" width=128px height=161px alt='Akira Hirose'> <img src="https://images-na.ssl-images-amazon.com/images/I/51DEF5PZYSL._SX357_BO1,204,203,200_.jpg" width=128px height=161px alt='HJ Pain'>
 
 
  [1]: http://www.twitter.com/maswiet
